@@ -16,6 +16,7 @@ Each project folder contains the same artifact set a PM would actually produce a
 4. `04-raci-stakeholder-matrix.md` — stakeholder map + RACI
 5. `05-communications-plan.md` — cadence, audience, channel, owner
 6. `06-status-report-template.md` — a filled Week 6 example + blank template
+7. `artifacts/*.pptx` — a 6-slide overview deck (30-60-90 timeline, budget breakdown, KPI trend charts, risk table, RACI table)
 
 ## How to use this repo
 - Treat each project as an independent case study; names/dates are fictional and can be find-and-replaced for your own use.
