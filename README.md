@@ -2,11 +2,13 @@
 
 Three fictional, fully-worked 30-60-90 day projects illustrating how a PM would run AI adoption initiatives across different corners of healthcare. All companies, people, and data below are invented for demonstration/training purposes.
 
-| # | Project | Sector | Fictional Org | PM |
-|---|---|---|---|---|
-| 1 | [PV-Copilot: AI-Assisted Signal Detection & Case Triage](01-pharma-pv-ai-adoption/) | Pharma / Pharmacovigilance | Meridian Biopharma | Dana Whitfield |
-| 2 | [RiskLens: AI-Driven Risk Stratification & Care Gap Closure](02-care-mgmt-ai-adoption/) | Payer / Care Management | Alden Health Partners (ACO) | Priya Nandakumar |
-| 3 | [ScribeOS: Ambient Clinical Documentation Copilot Rollout](03-ai-copilot-platform-adoption/) | Health System / Clinical AI Platform | Crestview Health System | Marcus Ilić |
+| # | Project | Sector | Fictional Org | PM | Board |
+|---|---|---|---|---|---|
+| 1 | [PV-Copilot: AI-Assisted Signal Detection & Case Triage](01-pharma-pv-ai-adoption/) | Pharma / Pharmacovigilance | Meridian Biopharma | Dana Whitfield | [Project board](https://github.com/users/AFasanya93/projects/1) |
+| 2 | [RiskLens: AI-Driven Risk Stratification & Care Gap Closure](02-care-mgmt-ai-adoption/) | Payer / Care Management | Alden Health Partners (ACO) | Priya Nandakumar | [Project board](https://github.com/users/AFasanya93/projects/2) |
+| 3 | [ScribeOS: Ambient Clinical Documentation Copilot Rollout](03-ai-copilot-platform-adoption/) | Health System / Clinical AI Platform | Crestview Health System | Marcus Ilić | [Project board](https://github.com/users/AFasanya93/projects/3) |
+
+Each board tracks the full 90-day milestone list (grouped by phase via labels) plus the top RAID risks, with milestones closed out as Done and risks left In Progress to reflect ongoing monitoring past pilot close.
 
 Each project folder contains the same artifact set a PM would actually produce and maintain:
 
